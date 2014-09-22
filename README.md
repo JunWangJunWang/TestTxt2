@@ -1,4 +1,7 @@
 hello-world1
 ============
 
-hello world
+hello world !
+this is a sunday we normally don't stay in home but today sounds special. Song went to work and I stayed at home becaues he drove the car to work place. However, it is very productive today. So far, I vaccumed our bedroom, transplanted the two basins of flowers, put two figures on parents' room, wahsed mats in three washrooms, and washed some clothes... More important, I founded a little time to play with Git. 
+
+Thanks God for listening my prayers!
